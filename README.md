@@ -1,25 +1,36 @@
 # Javascript-Snake-Game
 
-  <p>This is a sample project for a shoe website design created using HTML5, CSS3 and JAVASCRİPT. The design is fully responsive, meaning it can adapt to different screen sizes for optimal viewing experience, including desktops, tablets, and smartphones.</p>
+ 
+* This is a simple implementation of the classic Snake game using HTML5, CSS3, and JavaScript.
 
-  <h2>Technologies Used</h2>
+## Game Overview
+* The objective of the game is to control the snake to eat the food while avoiding collisions with the walls and itself. Each time the snake eats a piece of food, it grows in length, and the player earns points. The game ends when the snake collides with a wall or its own body.
 
-  <ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>JAVASCRİPT</li>
-    
-  </ul>
+## How to Play
+* Use the arrow keys on your keyboard to control the direction of the snake.
+* The snake will move automatically in the direction indicated by the arrow keys.
+* Eat the food by maneuvering the snake to the position of the food.
+* Avoid colliding with the walls and the body of the snake.
+* The game ends when the snake collides with a wall or its own body.
+* How to Run the Game
+* Clone or download the repository to your local machine.
+* Open the index.html file in a web browser.
+* Technologies Used
+* This game is built using HTML5, CSS3, and JavaScript.
 
-  <h2>Features</h2>
+### Credits
+* This game is inspired by the classic Snake game.
 
-  <ul>
-    <li>Fully responsive design: The website layout is optimized for viewing on devices of different sizes, ensuring that all visitors have an optimal viewing experience.</li>
-    <li>Interactive navigation menu: The website includes a navigation menu that allows users to easily navigate between pages.</li>
-    <li>Product showcase: The website includes a section showcasing featured products, with the option to view more products in a separate products page.</li>
-    <li>Contact form: The website includes a contact form that allows users to submit inquiries or feedback directly to the website owner.</li>
-  </ul>
+#### License
+* This project is licensed under the MIT License.
+
+##### Acknowledgments
+* Special thanks to the following resources:
+
+* MDN Web Docs
+* W3Schools
+* Codecademy
 
 
 
-  <p>This project was created by Hasan, based on a design by Hasan Arslan.</p>
+  <p>This project was created by Hasan Arslan</p>
