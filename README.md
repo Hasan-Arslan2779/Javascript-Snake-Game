@@ -5,6 +5,7 @@
 
 ## Game Overview
 * The objective of the game is to control the snake to eat the food while avoiding collisions with the walls and itself. Each time the snake eats a piece of food, it grows in length, and the player earns points. The game ends when the snake collides with a wall or its own body.
+* Reponsive design fits any device
 
 ## How to Play
 * Use the arrow keys on your keyboard to control the direction of the snake.
@@ -24,13 +25,10 @@
 #### License
 * This project is licensed under the MIT License.
 
-##### Acknowledgments
-* Special thanks to the following resources:
+### Gif
 
-* MDN Web Docs
-* W3Schools
-* Codecademy
+  <img src="https://github.com/Hasan-Arslan2779/Javascript-Snake-Game/blob/master/snake-game.gif" alt="Gif">
 
 
 
-  <p>This project was created by Hasan Arslan</p>
+ ## <p>This project was created by Hasan Arslan</p>
